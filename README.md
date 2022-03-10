@@ -4,7 +4,3 @@
 truffle-contract.min.js **4.3.5**
 
 web3.min.js **1.3.3**
-
-vue.min.js **2.6.14**
-
-jszip.min.js **3.1.5**
